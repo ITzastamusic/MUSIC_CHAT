@@ -59,7 +59,7 @@ class BUTTONS(object):
             InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/ixasta1"),
         ],
         [  
-            InlineKeyboardButton("˹ ᴘʀɪᴠᴧᴄʏ ˼", url="https://telegra.ph/Privacy-Policy--Purvi-Bots-by-ALPHA-BABY-08-06"),
+            InlineKeyboardButton("˹ ᴘʀɪᴠᴧᴄʏ ˼", url="https://t.me/ixasta1"),
             InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data="settingsback_helper"),
         ]
         ]
