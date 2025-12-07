@@ -45,7 +45,7 @@ class Helper(object):
 
 ❍ /reel : ᴅᴏᴡηʟᴏᴧᴅ ɪηѕᴛᴧɢʀᴧϻ ʀєєʟ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
     
 
@@ -57,10 +57,10 @@ class Helper(object):
 ᴜsᴀɢᴇ :- ʙᴏᴛ ᴜsᴇʀɴᴀᴍᴇ | ɪᴅ/ᴜsᴇʀɴᴀᴍᴇ | ᴛᴇxᴛ```
 
 
-**» єx :-** `@saregama_musics_bot @brahix I love You 😘`
+**» єx :-** `@Laibaamusicbot @icxasta I love You 😘`
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+**❖𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -75,7 +75,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ᴀɴʏ ɢʀσᴜᴘ ɪηғᴏ.
 ❍ /gcstats : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛs.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
     
 
@@ -103,7 +103,7 @@ class Helper(object):
 ❍ /report : ʀᴇᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴs
 ❍ /cancel : ꜱᴛσᴘ ᴧʟʟ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -121,7 +121,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ϻєssᴧɢє ǫυσᴛє.
 ❍ /q r : ᴄʀєᴧᴛє ϻєssᴧɢє ǫυσᴛє ᴡɪᴛʜ ʀєᴘʟʏ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ᴏʀ ɴᴇᴡ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -190,7 +190,7 @@ class Helper(object):
 ❍ /unbanall : ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs.
 ❍ /unpinall : ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ.**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 
 **❍ /sg : ηᴧϻє & υsєʀηᴧϻє ʜɪsᴛσʀʏ.**
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -214,7 +214,7 @@ class Helper(object):
 ❍ /allrepo : ᴧʟʟ ʀєᴘᴏ ʙʏ ɢɪᴛ ᴜsєʀηᴧϻє.
 ❍ /dlrepo : ᴅσᴡηʟσᴧᴅ ᴢɪᴘ ʙʏ ʀєᴘᴏ ᴜʀʟ.**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -235,7 +235,7 @@ class Helper(object):
 ❍ /bug :- ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ғᴏʀ ʙᴜɢ ʀᴇᴘᴏʀᴛ.
 ❍ /repo :- ɢᴇᴛ ᴛᴇᴀᴍ brahix ʀᴇᴘᴏs.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ꜱᴇᴛ ᴛʜᴇ ᴀɴᴛɪғʟᴏᴏᴅ ᴀᴄᴛɪᴏɴ ᴛᴏ ᴍᴜᴛᴇ :
 -> /floodmode mute
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
     HELP_12 = '''```
@@ -283,7 +283,7 @@ class Helper(object):
 ```
 ⋟ ᴏɴʟʏ ᴀᴅᴍɪɴ ᴄᴀɴ ᴀᴘᴘʀᴏᴠᴇ ᴀɴᴅ ᴅɪsᴍɪss ᴀɴᴅ ᴍᴇss ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ ɪɴ 10 ᴍɪɴᴜᴛᴇs.```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
     
@@ -295,7 +295,7 @@ class Helper(object):
 ❍ /spurge : ᴄʟᴇᴀɴ ɢʀᴏᴜᴘ ᴍsɢ sɪʟᴇɴᴛʟʏ.
 ❍ /del : ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴍsɢ ғᴏʀ ᴅᴇʟᴇᴛᴇ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
     
@@ -312,7 +312,7 @@ class Helper(object):
 ❖ ɴᴏᴛᴇ : ɪɴ ᴄᴀꜱᴇ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴇɴᴅꜱ, ᴛʜᴇ ʙᴏᴛ ᴍᴜꜱᴛ ʜᴀᴠᴇ ᴛʜᴇ ɴᴇᴡ ᴀᴅᴍɪɴ ʀɪɢʜᴛ.
 ```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)**
 '''
 
 
@@ -333,29 +333,29 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)
+❍ ᴄσηᴛᴧᴄᴛ - [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
 **─────────────────────
- ᴡєʟᴄσϻє ᴛσ ˹[brahix ʙᴏᴛs](https://t.me/about_brahix)˼ sᴛᴧᴛυs
+ ᴡєʟᴄσϻє ᴛσ ˹[˹ᴀsᴛᴀ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼](https://t.me/ixasta1)˼ sᴛᴧᴛυs
 ──────────────────────
    ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ──────────────────────
-╭⎋ [ηɪᴋᴜ ꭙ ϻυsɪᴄ](https://t.me/NikuMusicBot) : ᴧʟɪᴠє 
+╭⎋ [˹ʟᴧɪʙᴧ ꭙ ϻᴜꜱɪᴄ˼ ♪ [ ɴᴏ ♡゙ ᴧᴅꜱ ]](https://t.me/Laibaamusicbot) : ᴧʟɪᴠє 
 ╰⊚ υsᴧɢє : 24 ʜʀs | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [ᴅɪʏᴧ ꭙ ϻυsɪᴄ](https://t.me/DiyaMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [𝁘ໍ⋆𝚰 𝐋 𝐌 𝚨𓂃ֶꪳ ִֶ💗](https://t.me/ilmamusicbot) : ᴧʟɪᴠє 
 ╰⊚ υsᴧɢє : 24 ʜʀs | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [sᴏηᴧʟɪ ꭙ ᴄʜᴧᴛ](https://t.me/SonaliChatbot) : ᴧʟɪᴠє 
+╭⎋ [˹ᴠᴧʀsʜᴧ ꭙ ϻᴜsɪᴄ˼ ♪](https://t.me/varshaamusicbot) : ᴧʟɪᴠє 
 ╰⊚ υsᴧɢє : 24 ʜʀs | ᴧssɪsᴛᴧηᴛs : 01
 ──────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/Purvibots)
+⊚ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/ixasta)
 ──────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση  : `01.09.2025`
 ──────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [𝆺𝅥⃝🎧×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝⟶📻](https://t.me/brahix)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [⋏ 𝛅 𝛕 ⋏](https://t.me/icxasta)
 ──────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -364,19 +364,19 @@ class Helper(object):
 ──────────────────────
 ❖ ᴧ ϻᴜsɪᴄ + ϻᴧηᴧɢєϻєηᴛ ʙσᴛ ғσʀ ᴛєʟєɢʀᴧϻ ɢʀσᴜᴘs / ᴄʜᴧηηєʟs.
 ──────────────────────
-● ᴡʀɪᴛᴛєη ɪη » [ᴩʏᴛʜση](https://www.python.org/)
-● ᴅᴧᴛᴧʙᴧsє » [ϻᴏηɢᴏ-ᴅʙ](https://www.mongodb.com/)
-● ʜєʟᴘ ᴡɪᴛʜ [ᴘʏʀσɢʀᴧϻ](https://github.com/pyrogram/pyrogram) & [ᴘʏ-ᴛɢᴄᴧʟʟs](https://github.com/pytgcalls/pytgcalls).
+● ᴡʀɪᴛᴛєη ɪη » [ᴩʏᴛʜση](https://t.me/ixasta)
+● ᴅᴧᴛᴧʙᴧsє » [ϻᴏηɢᴏ-ᴅʙ](https://t.me/ixasta)
+● ʜєʟᴘ ᴡɪᴛʜ [ᴘʏʀσɢʀᴧϻ](https://t.me/ixasta) & [ᴘʏ-ᴛɢᴄᴧʟʟs](https://t.me/ixasta).
 ──────────────────────
 ● ηᴏ ʟᴀɢ ɪssᴜєs ηᴏ ᴧᴅs ηᴏ ʙᴜɢs.
 ● sᴜᴘᴘᴏʀᴛ ᴧʟʟ ᴛɪϻє sᴛᴧʏ ᴡɪᴛʜ ᴜs.
 ──────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ » [brahix-ʙσᴛs](https://t.me/about_brahix)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ » [brahix-ᴜᴘᴅᴧᴛєs](https://t.me/brahix_support)
-❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ » [тєᴧϻ-brahix](github.com/TEAMPURVI)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ » [˹ᴀsᴛᴀ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼](https://t.me/ixasta)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ » [𝐎𝐃𝐒 𝐍𝐄𝐓𝐖𝐎𝐑𝐊](https://t.me/odsnetwork)
+❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ » [˹ᴀsᴛᴀ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼](https://t.me/ixasta)
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/Purvibots)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/brahix)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/ixasta)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/icxasta)
 ──────────────────────**
 
 '''
