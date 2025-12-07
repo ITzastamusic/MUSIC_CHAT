@@ -174,19 +174,19 @@ str_2 : "❖  ᴠᴧʟɪᴅ sᴛʀєᴧϻ ᴠєʀɪғɪєᴅ.\n\n❖ ᴘʀσᴄ�
 str_3 : "❖ ғᴧɪʟєᴅ ᴛσ sᴛʀєᴧϻ ʏσυᴛυʙє ʟɪᴠє sᴛʀєᴧϻ, ησ ʟɪᴠє ꜰσʀϻᴧᴛ ꜰσυηᴅ."
 
 ping_1 : "**❖ {0} ɪs ᴘɪηɢɪηɢ...**"
-ping_2 : "**<u>❖ {1}</u>**\n\n**🏓 ᴘɪηɢ..ᴩᴏηɢ :** {0}ϻs..\n\n**➻ sʏsᴛᴇᴍ sᴛᴧᴛs :**\n\n**⌾ υᴩᴛɪᴍᴇ :** {2}\n**⌾ ʀᴧᴍ :** {3}\n**⌾ ᴄᴩυ :** {4}\n**⌾ ᴅɪsᴋ :** {5}\n**⌾ ᴩʏ-ᴛɢᴄᴧʟʟs :** {6}ᴍs\n\n**⌾ ʙʏ » [˹×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝ -ʙᴏᴛs™˼](t.me/about_brahix)**"
+ping_2 : "**<u>❖ {1}</u>**\n\n**🏓 ᴘɪηɢ..ᴩᴏηɢ :** {0}ϻs..\n\n**➻ sʏsᴛᴇᴍ sᴛᴧᴛs :**\n\n**⌾ υᴩᴛɪᴍᴇ :** {2}\n**⌾ ʀᴧᴍ :** {3}\n**⌾ ᴄᴩυ :** {4}\n**⌾ ᴅɪsᴋ :** {5}\n**⌾ ᴩʏ-ᴛɢᴄᴧʟʟs :** {6}ᴍs\n\n**⌾ ʙʏ » [⋏ 𝛅 𝛕 ⋏](t.me/icxasta)**"
 
 queue_1 : "❖ ғєᴛᴄʜɪηɢ ǫυєυє...\n\nᴘʟєᴧsє ᴡᴧɪᴛ..."
 queue_2 : "❖ ǫυєυє єϻᴘᴛʏ."
 queue_3 : "<u>❖ ᴄʟɪᴄᴋ ʜєʀє ᴛσ ᴄʜєᴄᴋ ᴛʜє ʟɪsᴛ σғ ᴛʜє ǫυєυєᴅ ᴛʀᴧᴄᴋs :</u> <a href={0}>ʜєʀє</a>"
 #queue_4 : "<b><blockquote>⏤͟͞● ᴧᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴧᴛ #{0}</blockquote>\n<blockquote>❍ ᴛɪᴛʟᴇ :</b> {1}\n<b>❍ ᴅᴜʀᴧᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ :</b> {3}</blockquote>\n<blockquote><b>❍ ᴊᴏɪɴ  ➛  @AarumiBots</b></blockquote>"
-queue_4: "<b><blockquote>❀≽ ᴧᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ✭ ᴧᴛ #{0}</blockquote></b>\n<b><blockquote>✯ ᴛɪᴛᴛʟᴇ »</b> {1}\n<b>✬ ᴅᴜʀᴧᴛɪᴏɴ »</b> {2} ᴍɪɴᴜᴛᴇs\n<b>✭ ʙʏ »</b> {3}</blockquote>\n<b><blockquote>✬ ᴘᴏᴡᴇʀᴇᴅ  ʙʏ  ➛  [×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝ -ʙᴏᴛs™˼˼](t.me/about_brahix)</b></blockquote>"
+queue_4: "<b><blockquote>❀≽ ᴧᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ✭ ᴧᴛ #{0}</blockquote></b>\n<b><blockquote>✯ ᴛɪᴛᴛʟᴇ »</b> {1}\n<b>✬ ᴅᴜʀᴧᴛɪᴏɴ »</b> {2} ᴍɪɴᴜᴛᴇs\n<b>✭ ʙʏ »</b> {3}</blockquote>\n<b><blockquote>✬ ᴘᴏᴡᴇʀᴇᴅ  ʙʏ  ➛  [⋏ 𝛅 𝛕 ⋏](t.me/icxasta)</b></blockquote>"
 queue_5 : "❖ ᴛʜєʀє's σηʟʏ σηє ǫυєυєᴅ ᴛʀᴧᴄᴋ ɪη ᴘʟᴧʏʟɪsᴛ.\n\n❖ ᴧᴅᴅ ϻσʀє ᴛʀᴧᴄᴋs ᴛσ ᴄʜєᴄᴋ ʟɪsᴛ."
 queue_6 : "<b>🕚 ᴅυʀᴧᴛɪᴏɴ :</b> υɴᴋɴᴏᴡɴ ᴅυʀᴧᴛɪᴏɴ sᴛʀᴇᴧᴍ\n\n❖ ᴄʟɪᴄᴋ ᴏɴ ʙυᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫυᴇᴜᴇᴅ ʟɪsᴛ."
 queue_7 : "\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_8 : "❖ <b>{0} ᴘʟᴧʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴧᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴧᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫυᴇsᴛᴇᴅ ʙʏ :</b> {3} {4}"
 
-stream_1 : "<b><blockquote>✮ sᴛᴧʀᴛᴇᴅ sᴛʀᴇᴧᴍɪɴɢ ɴᴏᴡ ✮</blockquote></b>\n<blockquote><b>✯ ᴛɪᴛᴛʟᴇ »</b> <a href={0}>{1}</a>\n<b>✬ ᴅᴜʀᴧᴛɪᴏɴ »</b> {2} ᴍɪɴᴜᴛᴇs\n<b>✭ ʙʏ »</b> {3}</blockquote>\n<blockquote><b>❖  ᴍᴧᴅᴇ  ʙʏ ➛  [×⃪͜‌ 𝐁 𝐑 𝐀 𝐇 𝐈 𝐗 ◡̈⃝ -ʙᴏᴛs™˼˼](t.me/about_brahix)</b></blockquote>"
+stream_1 : "<b><blockquote>✮ sᴛᴧʀᴛᴇᴅ sᴛʀᴇᴧᴍɪɴɢ ɴᴏᴡ ✮</blockquote></b>\n<blockquote><b>✯ ᴛɪᴛᴛʟᴇ »</b> <a href={0}>{1}</a>\n<b>✬ ᴅᴜʀᴧᴛɪᴏɴ »</b> {2} ᴍɪɴᴜᴛᴇs\n<b>✭ ʙʏ »</b> {3}</blockquote>\n<blockquote><b>❖  ᴍᴧᴅᴇ  ʙʏ ➛  [⋏ 𝛅 𝛕 ⋏](t.me/icxasta)</b></blockquote>"
 stream_2 : "<b><blockquote>✮ sᴛᴧʀᴛᴇᴅ sᴛʀᴇᴧᴍɪɴɢ ɴᴏᴡ ✮</blockquote></b>\n<blockquote><b>❍ sᴛʀᴇᴧᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>✭ ʙʏ »</b> {0}</blockquote>"
 
 CLOSE_BUTTON  : "⌯ ᴄʟᴏsᴇ ⌯"
