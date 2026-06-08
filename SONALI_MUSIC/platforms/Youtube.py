@@ -31,8 +31,9 @@ from os import getenv
 API_BASE = os.getenv("DOWNLOADER_API_BASE", "https://youtubeapi-f071b339ce5d.herokuapp.com")
 
 # Legacy quickearn config (fallback)
-API_URL = getenv("API_URL", "https://api.thequickearn.xyz")
-API_KEY = getenv("API_KEY", "NxGBNexGenBotsa02f5a")
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
+
+YT_API_KEY = getenv("YT_API_KEY" , 'xbit_3nW_hlcVau6UYCNWHJhSdZJV2rWbnTSH' ) ## Your API key like: 
 VIDEO_API_URL = getenv("VIDEO_API_URL", "https://api.video.thequickearn.xyz")
 
 # === SAAVN API CONFIGURATION ===
