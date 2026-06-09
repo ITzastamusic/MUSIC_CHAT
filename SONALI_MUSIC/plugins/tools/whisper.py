@@ -1,11 +1,3 @@
-# =======================================================
-# ©️ 2025-26 All Rights Reserved by Purvi Bots (suraj08832) 🚀
-
-# This source code is under MIT License 📜 Unauthorized forking, importing, or using this code without giving proper credit will result in legal action ⚠️
- 
-# 📩 DM for permission : @brahix
-# =======================================================
-
 from SONALI_MUSIC import app as app
 from config import BOT_USERNAME
 from pyrogram import filters
@@ -138,11 +130,3 @@ async def bot_inline(_, inline_query):
         answers = await _whisper(_, inline_query)
         await inline_query.answer(answers[-1], cache_time=0)
                                                
-
-# ======================================================
-# ©️ 2025-26 All Rights Reserved by Purvi Bots (suraj08832) 😎
-
-# 🧑‍💻 Developer : t.me/brahix
-# 🔗 Source link : GitHub.com/suraj08832/Sonali-MusicV2
-# 📢 Telegram channel : t.me/about_brahix
-# =======================================================
